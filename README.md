@@ -1,8 +1,8 @@
-### Hello 👋 I'm Avinash
+### Hello 👋 I'm Avinash Reddy Kovvuri
 Tech Enthusiastic | Political & Economic Explorer | Keen ObseRver | stoIc
 
 - 🌱 I’m currently learning Deep learning Vision & Full Stack Web development.
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/avinash-reddy-kovvuri/)
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/avinash-reddy-kovvuri/) 
 <!--
 **Avinash-Reddy-Kovvuri/Avinash-Reddy-Kovvuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
