@@ -1,5 +1,5 @@
 ### Hello 👋 I'm Avinash Reddy Kovvuri
-Tech Enthusiastic | Political & Economic Explorer | Keen ObseRver | stoIc
+Tech Enthusiastic | Keen ObseRver | stoIc
 
 -  🔭 I’m currently working on Deep learning Vision & Full Stack Web development.
 - 🌱 Ready to Work as an intern and was more interested to be part of research in edge cutting technologies.
