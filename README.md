@@ -3,7 +3,10 @@ Tech Enthusiastic | Keen ObseRver | stoIc
 
 -  🔭 I’m currently working on Deep learning Vision & Full Stack Web development.
 - 🌱 Ready to Work as an intern and was more interested to be part of research in edge cutting technologies.
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/avinash-reddy-kovvuri/) 
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/avinash-reddy-kovvuri/)
+
+- ![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avinash-Reddy-Kovvuri&theme=dark&show_icons=true)
+
 <!--
 **Avinash-Reddy-Kovvuri/Avinash-Reddy-Kovvuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
